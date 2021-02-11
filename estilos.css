@@ -128,11 +128,10 @@ article p{
     text-align: center;
     color: grey;
     padding-top: 3px;
-
+}
 
 #pie a{
     border-right: solid 1px;
     border-color: grey;
     margin-left: 20px;
     line-height: 5px;
-}
