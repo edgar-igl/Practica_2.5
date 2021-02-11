@@ -1,0 +1,138 @@
+body{
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    color: #6c7b84;
+    font-size: 12px;
+    background-image: url("imagenes/fondo.jpg");
+    margin: 0px;
+}
+
+.barranegra{
+    background-color: #000;
+    height: 19px;
+}
+
+.cabecera{
+    margin-top: 38px;
+    margin-bottom: 19px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.main{
+    width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 15px;
+}
+
+header{
+    height: 90px;
+    position: relative;
+}
+
+h1{
+    font-size: 2.5em;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+header p{
+    width: 500px;
+    padding: 15px;
+    font-size: 1.25em;
+    font-weight: 100;
+}
+
+#imagenDoctor{
+    background-image: url("imagenes/imgport.png");
+    position: absolute;
+    height: 231px;
+    width: 177px;
+    margin-right: 50px;
+    float: right;
+}
+
+#trabajos{
+    margin-top: 15px;
+    text-indent: 7px;
+    float: left;
+    width: 65%;
+}
+
+#trabajos article{
+    border-top: solid 1px;
+    border-color: #5a5f62;
+    padding-left: 8px;
+}
+
+#galeria{
+    margin-top: 15px;
+    text-indent: 7px;
+    float: right;
+    width: 230px;
+}
+
+h2{
+    font-size: 1.75em;
+    margin-bottom: 10px;
+    text-indent: 8px;
+}
+
+h3{
+    font-size: 18px;
+    color: #0092c5;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+h4{
+    color: #7dd0f0;
+    margin-bottom: 19px;
+}
+
+a{
+    color: #7dd0f0;
+}
+
+article p{
+    padding-bottom: 15px;
+}
+
+#barralateral{
+    margin-top: 15px;
+    padding-top: 36px;
+}
+
+#barralateral img{
+    margin-bottom: 15px;
+}
+
+#galeria article{
+    border-top: 1px solid;
+    border-color: #5a5f62;
+    padding-left: 15px;
+}
+
+#galeria h2,article{
+    float: left;
+    width: 33%;
+}
+
+#galeria img{
+    width: 67%;
+    margin-top: 15px;
+}
+
+#pie{
+    text-align: center;
+    color: grey;
+    padding-top: 3px;
+}
+
+#pie a{
+    border-right: solid 1px;
+    border-color: grey;
+    margin-left: 20px;
+    line-height: 5px;
+}
